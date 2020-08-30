@@ -1,12 +1,12 @@
 .banner{
     height:870px;
-    background:url("/img/photo-1588159343745-445ae0b16383.png");
+    background:url("../img/photo-1588159343745-445ae0b16383.png");
     background-size: cover;
 }
 @media (max-width:768px){
     .banner{
         height:480px;
-        background:url("/img/photo-1588159343745-445ae0b16383.png");
+        background:url("../img/photo-1588159343745-445ae0b16383.png");
         background-size:cover;
     }
 }
